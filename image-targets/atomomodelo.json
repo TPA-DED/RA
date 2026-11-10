@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 625,
+    "width": 3750,
+    "height": 5000,
+    "isRotated": false,
+    "originalWidth": 5000,
+    "originalHeight": 5000
+  },
+  "imagePath": "image-targets/atomomodelo_luminance.jpg",
+  "metadata": null,
+  "name": "atomomodelo",
+  "resources": {
+    "originalImage": "atomomodelo_original.jpg",
+    "croppedImage": "atomomodelo_cropped.jpg",
+    "thumbnailImage": "atomomodelo_thumbnail.jpg",
+    "luminanceImage": "atomomodelo_luminance.jpg"
+  },
+  "created": 1794243034087,
+  "updated": 1794243034087
+}
